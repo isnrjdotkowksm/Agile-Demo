@@ -1,0 +1,7 @@
+setup.py
+agile_demo/__init__.py
+agile_demo.egg-info/PKG-INFO
+agile_demo.egg-info/SOURCES.txt
+agile_demo.egg-info/dependency_links.txt
+agile_demo.egg-info/requires.txt
+agile_demo.egg-info/top_level.txt
